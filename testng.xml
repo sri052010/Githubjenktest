@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
   <classes>
-  		<class name="Sampletest1"></class>
+  		<class name="Githubjenktest1.Githubjenktest1.Sampletest1"></class>
   </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
