@@ -5,8 +5,8 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class Sampletest1 {
 
-
-	public static void main(String[] args) 
+    @org.testng.annotations.Test
+	public void Test() 
 	{
 		System.setProperty("webdriver.chrome.driver", "C:\\Srikanth\\Drivers\\chromedriver.exe");
 		WebDriver driver1 = new ChromeDriver();
